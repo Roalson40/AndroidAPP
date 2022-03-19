@@ -1,5 +1,6 @@
 # AndroidAPP
 •	Idea
+
 Our group likes socializing, and we also value the importance of communication, which is how people transfer information. So, this time we decided to make a social software. This software is an instant messaging software that we independently developed and launched, mainly for smartphone users and supporting Android mobile operating system. Users can share text and pictures with friends through the client, and support group chat and voice, broadcast (one-to-many) messages, photo sharing, location sharing, message exchange and contact services.
 In addition, the software also could add friends face to face and other interactive functions, such as: users can post news, users can choose to like or dislike, and even comments to express their views. At the same time, the software also has a mall service function, for users to sell their unwanted old things, to achieve second-hand goods trading and recycling. Mall platform also has customer service function, convenient to realize the real-time communication between goods sellers and buyers, to help users better buy and sell goods.
 
